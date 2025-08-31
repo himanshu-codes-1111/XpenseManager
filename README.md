@@ -24,8 +24,6 @@ Track your expenses, categorize spending, analyze with charts, and stay on top o
 
 ## 🖼 Screenshots  
 
-## 🖼 Screenshots  
-
 <p align="center">
   <img src="images/x1.jpg" width="250" />
   <img src="images/x2.jpg" width="250" />
