@@ -1,4 +1,4 @@
-# 💰 Him Xpense Manager  
+# 💰 XpenseManager  
 
 A smart and simple **Expense Management Android App** built with **Kotlin**, **Room Database**, and **MVVM architecture**.  
 Track your expenses, categorize spending, analyze with charts, and stay on top of your finances with ease.  
@@ -24,22 +24,25 @@ Track your expenses, categorize spending, analyze with charts, and stay on top o
 
 ## 🖼 Screenshots  
 
+## 🖼 Screenshots  
+
 <p align="center">
-  <img src="images/x1.png" width="250" />  
-  <img src="images/x2.png" width="250" />  
-  <img src="images/x3.png" width="250" />  
-  <img src="images/x4.png" width="250" />  
-  <img src="images/x5.png" width="250" />  
-  <img src="images/x6.png" width="250" />  
-  <img src="images/x7.png" width="250" />  
-  <img src="images/x8.png" width="250" />  
-  <img src="images/x9.png" width="250" />  
-  <img src="images/x10.png" width="250" />  
-  <img src="images/x11.png" width="250" />  
-  <img src="images/x12.png" width="250" />  
-  <img src="images/x13.png" width="250" />  
-  <img src="images/x14.png" width="250" />  
+  <img src="images/x1.jpg" width="250" />
+  <img src="images/x2.jpg" width="250" />
+  <img src="images/x3.jpg" width="250" />
+  <img src="images/x4.jpg" width="250" />
+  <img src="images/x5.jpg" width="250" />
+  <img src="images/x6.jpg" width="250" />
+  <img src="images/x7.jpg" width="250" />
+  <img src="images/x8.jpg" width="250" />
+  <img src="images/x9.jpg" width="250" />
+  <img src="images/x10.jpg" width="250" />
+  <img src="images/x11.jpg" width="250" />
+  <img src="images/x12.jpg" width="250" />
+  <img src="images/x13.jpg" width="250" />
+  <img src="images/x14.jpg" width="250" />
 </p>
+
  
 
 ---
