@@ -24,17 +24,23 @@ Track your expenses, categorize spending, analyze with charts, and stay on top o
 
 ## 🖼 Screenshots  
 
-### Home Dashboard  
-![Expense List](images/x1.png)  
-
-### Expense List  
-![Expense List](images/expense_list.png)  
-
-### Add Expense  
-![Add Expense](images/add_expense.png)  
-
-### Category Management  
-![Categories](images/categories.png)  
+<p align="center">
+  <img src="images/x1.png" width="250" />  
+  <img src="images/x2.png" width="250" />  
+  <img src="images/x3.png" width="250" />  
+  <img src="images/x4.png" width="250" />  
+  <img src="images/x5.png" width="250" />  
+  <img src="images/x6.png" width="250" />  
+  <img src="images/x7.png" width="250" />  
+  <img src="images/x8.png" width="250" />  
+  <img src="images/x9.png" width="250" />  
+  <img src="images/x10.png" width="250" />  
+  <img src="images/x11.png" width="250" />  
+  <img src="images/x12.png" width="250" />  
+  <img src="images/x13.png" width="250" />  
+  <img src="images/x14.png" width="250" />  
+</p>
+ 
 
 ---
 
@@ -54,7 +60,3 @@ Track your expenses, categorize spending, analyze with charts, and stay on top o
 - Android Studio (latest version recommended)  
 - Minimum SDK: 21 (Android 5.0 Lollipop)  
 
-### Setup  
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/your-username/him-xpense-manager.git
